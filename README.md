@@ -34,4 +34,4 @@ Para visualizar a análise completa, incluindo código, gráficos e documentaç�
 3.  Execute as células em ordem.
 
 ---
-**Desenvolvido por:** [Nome do Membro 1, Nome do Membro 2, etc.]
+**Desenvolvido por:** Matheus Willian, Arthur Silveeira, Maira Lourenço, Manoel Olimpio, Victoria Zambom, Victor Henrique
